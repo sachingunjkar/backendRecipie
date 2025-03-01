@@ -9,9 +9,9 @@ Make sure you have the following installed:
 ----Installation----
 # Clone the repository
 
--> git clone <repository-url> 
+-> git clone repository-url
 
--> cd <repository-folder>
+-> cd repository-folder
 
 # Install dependencies
 
